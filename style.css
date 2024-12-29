@@ -1,0 +1,34 @@
+p {
+    color: red; 
+    background-color: rgb(173, 200, 224);
+   }
+
+   .bg-color{
+
+    background-color: green;
+   }
+   #head3{
+    color: blueviolet;
+   }
+
+
+   .box{
+
+    background-color: blue;
+    width: 1250px;
+    height: 250px;
+    color: white;
+    background-image: url("https://www.alefbatour.com/Content/Upload/Images/2222-1225.webp");
+    background-repeat: no-repeat;
+  /*  background-repeat: repeat-x;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-position: top right;*/
+    background-position: bottom left;
+   }
+
+
+/***************************** menu *************************/
+
+
+/* project */
