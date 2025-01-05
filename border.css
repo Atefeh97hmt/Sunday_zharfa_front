@@ -19,7 +19,11 @@ padding: 20px;
 /* margin-top:50px;
 margin-left: 150px; */
 margin: 50px 150px;
-border-radius: 12px;
+/* border-radius: 12px; */
+border-top-left-radius: 15px;
+border-bottom-left-radius: 20px;
+border-top-right-radius: 60px;
+border-bottom-right-radius: 0;
 }
 
 .box2{
