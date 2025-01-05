@@ -1,0 +1,42 @@
+
+
+
+/*********************** this section is for box ***************************/
+
+.box{
+width: 250px;
+height: 250px;
+background-color: #a3dfff;
+/* border-width: 2px;
+border-style: solid;
+border-color: blue; */
+border: 2px solid blue;
+
+/* padding-left: 20px;
+padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 20px; */
+padding: 20px;
+
+/* margin-top:50px;
+margin-left: 150px; */
+margin: 50px 150px;
+}
+
+.box2{
+    width: 150px;
+    height: 200px;
+    background-color: #91ffc6;
+    padding: 10px;
+    margin: 20px;
+    /* border: 5px solid green; */
+    /* border: 5px dotted green; */
+    /* border: 5px dashed green; */
+    /* border: 5px double green; */
+    /* border: 10px groove green;
+    border: 10px ridge green; */
+    /* border: 5px inset green; */
+    border: 5px outset green;
+
+}
+
