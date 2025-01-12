@@ -1,0 +1,23 @@
+input{
+margin-bottom: 10px;
+padding: 10px  20px;
+border: 1px solid #e10b48;
+border-radius: 10px;
+}
+
+.myform{
+    background-color: #dadada;
+    width: 460px;
+    padding: 50px;
+}
+
+.mybtn{
+    background-color: #e10b48;
+    color: #fff;
+    /* padding: 10px 43px; */
+    border: none;
+    margin-top: 10px;
+    border-radius: 25px;
+    width: 100px;
+    height: 35px;
+}
