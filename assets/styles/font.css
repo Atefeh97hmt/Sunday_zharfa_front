@@ -44,7 +44,7 @@ table {
 
 @font-face{
 font-family: "yekan";
-src: url(/yekan-font/Yekan.eot), url(/yekan-font/Yekan.ttf), url(/yekan-font/Yekan.woff);
+src: url(/assets/yekan-font/Yekan.eot), url(/assets/yekan-font/Yekan.ttf), url(/assets/yekan-font/Yekan.woff);
 }
 
 body{
