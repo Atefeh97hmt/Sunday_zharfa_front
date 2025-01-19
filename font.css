@@ -1,0 +1,15 @@
+
+@font-face{
+font-family: "yekan";
+src: url(/yekan-font/Yekan.eot), url(/yekan-font/Yekan.ttf), url(/yekan-font/Yekan.woff);
+}
+
+body{
+    direction: rtl;
+    font-family: yekan;
+    padding: 20px 100px;
+    font-size: 18px;
+    line-height: 2;
+}
+
+
