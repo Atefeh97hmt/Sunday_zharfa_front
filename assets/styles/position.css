@@ -97,5 +97,11 @@ table {
     top: 0;
     left: 0;
     right: 0;
-}
+} 
 
+.sticky{
+    background-color: aqua;
+    padding: 2px;
+    position: sticky;
+    top: 0;
+}
