@@ -1,0 +1,38 @@
+.card{
+    width: 500px;
+    height: 450px;
+    border: 2px solid rgb(160, 160, 160);
+    position: relative;
+}
+
+.card img{
+    width: 500px;
+}
+
+.card h2{
+    padding: 2px 10px;
+}
+.card p{
+    padding: 2px 10px;
+
+}
+
+.special{
+    position: absolute;
+    top: 0;
+    margin: 0;
+    background: red;
+    padding: 13px !important;
+    color: white;
+    right: -15px;
+    top: 15px;
+}
+
+.triangle {
+    position: absolute;
+    top: 6px;
+    right: -16px;
+    border-style: solid;
+    border-width: 0px 15px 9px 0;
+    border-color: transparent transparent #b80000 transparent;
+}
