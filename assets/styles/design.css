@@ -68,3 +68,42 @@ height: 30px;
     margin-bottom: 5px;
     margin-top: 5px;
 }
+
+
+.card{
+	background: orange;
+    padding: 20px;
+	width: 250px;
+	display: flex;
+}
+
+.card-img {
+    width: 100px;
+    height: 100px;
+}
+
+.card p{
+	color: white;
+    padding-left: 15px;
+}
+
+.title{
+	position: relative;
+}
+
+.line {
+    width: 55px;
+    height: 2px;
+    background-color: white;
+    position: absolute;
+    left: 15px;
+    top: 22px;
+}
+
+.cards{
+	background-color: #c7c7c7;
+	padding: 50px 100px;
+	margin-top: 50px;
+	display: flex;
+	justify-content: space-between;
+}
