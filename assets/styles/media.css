@@ -7,6 +7,12 @@
     padding: 0 20px;
 }
 
+.list li:hover{
+    color: orange;
+    font-weight: bold;
+    cursor: pointer;
+}
+
 @media screen and (max-width:668px) {
     .list{
         display: none;
